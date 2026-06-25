@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /static/img/raw/
+
+Sitemap: https://parkerleakrepairpros.com/sitemap.xml
